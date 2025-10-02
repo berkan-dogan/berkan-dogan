@@ -5,18 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=berkan-dogan&label=Profile%20views&color=0e75b6&style=flat" alt="berkan-dogan" />
 </p>
 
----
+
 
 ### 🌱 About Me
 - Currently learning **C** and **Go** programming languages.
 - Passionate about reverse engineering, low-level programming, and exploring software internals.
 - Fun fact: I consider myself a **mad scientist** in code experiments.
 
----
+
 
 ### 👨‍💻 Projects
 All of my projects are available at:  
-[**My Projects & Portfolio**](https://berkan-dogan.github.io/aboutme/)
+[**My Projects & Portfolio**](https://berkan-dogan.github.io)
 
 ---
 
@@ -24,7 +24,7 @@ All of my projects are available at:
 - Email: **[BerkanDogan@proton.me](mailto:BerkanDogan@proton.me)**
 - Open to collaborations, challenges, and crazy coding experiments.
 
----
+
 
 ### 🌐 Connect with Me
 <p align="left">
